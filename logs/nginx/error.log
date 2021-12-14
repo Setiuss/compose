@@ -1,0 +1,121 @@
+2021/11/25 13:32:33 [notice] 1#1: using the "epoll" event method
+2021/11/25 13:32:33 [notice] 1#1: nginx/1.21.4
+2021/11/25 13:32:33 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/11/25 13:32:33 [notice] 1#1: OS: Linux 5.10.60.1-microsoft-standard-WSL2
+2021/11/25 13:32:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/25 13:32:33 [notice] 1#1: start worker processes
+2021/11/25 13:32:33 [notice] 1#1: start worker process 24
+2021/11/25 13:32:33 [notice] 1#1: start worker process 25
+2021/11/25 13:40:03 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/25 13:40:03 [notice] 25#25: gracefully shutting down
+2021/11/25 13:40:03 [notice] 24#24: gracefully shutting down
+2021/11/25 13:40:03 [notice] 25#25: exiting
+2021/11/25 13:40:03 [notice] 24#24: exiting
+2021/11/25 13:40:03 [notice] 25#25: exit
+2021/11/25 13:40:03 [notice] 24#24: exit
+2021/11/25 13:40:03 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2021/11/25 13:40:03 [notice] 1#1: worker process 24 exited with code 0
+2021/11/25 13:40:03 [notice] 1#1: worker process 25 exited with code 0
+2021/11/25 13:40:03 [notice] 1#1: exit
+2021/11/25 14:32:17 [notice] 1#1: using the "epoll" event method
+2021/11/25 14:32:17 [notice] 1#1: nginx/1.21.4
+2021/11/25 14:32:17 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/11/25 14:32:17 [notice] 1#1: OS: Linux 5.10.60.1-microsoft-standard-WSL2
+2021/11/25 14:32:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/25 14:32:17 [notice] 1#1: start worker processes
+2021/11/25 14:32:17 [notice] 1#1: start worker process 23
+2021/11/25 14:32:17 [notice] 1#1: start worker process 24
+2021/11/25 14:33:45 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/25 14:33:45 [notice] 24#24: gracefully shutting down
+2021/11/25 14:33:45 [notice] 23#23: gracefully shutting down
+2021/11/25 14:33:45 [notice] 23#23: exiting
+2021/11/25 14:33:45 [notice] 24#24: exiting
+2021/11/25 14:33:45 [notice] 23#23: exit
+2021/11/25 14:33:45 [notice] 24#24: exit
+2021/11/25 14:33:45 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2021/11/25 14:33:45 [notice] 1#1: worker process 23 exited with code 0
+2021/11/25 14:33:45 [notice] 1#1: worker process 24 exited with code 0
+2021/11/25 14:33:45 [notice] 1#1: exit
+2021/11/30 12:02:21 [notice] 1#1: using the "epoll" event method
+2021/11/30 12:02:21 [notice] 1#1: nginx/1.21.4
+2021/11/30 12:02:21 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/11/30 12:02:21 [notice] 1#1: OS: Linux 5.10.60.1-microsoft-standard-WSL2
+2021/11/30 12:02:21 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/30 12:02:21 [notice] 1#1: start worker processes
+2021/11/30 12:02:21 [notice] 1#1: start worker process 22
+2021/11/30 12:02:21 [notice] 1#1: start worker process 23
+2021/11/30 12:04:17 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/30 12:04:17 [notice] 22#22: gracefully shutting down
+2021/11/30 12:04:17 [notice] 22#22: exiting
+2021/11/30 12:04:17 [notice] 23#23: gracefully shutting down
+2021/11/30 12:04:17 [notice] 23#23: exiting
+2021/11/30 12:04:17 [notice] 22#22: exit
+2021/11/30 12:04:17 [notice] 23#23: exit
+2021/11/30 12:04:17 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2021/11/30 12:04:17 [notice] 1#1: worker process 22 exited with code 0
+2021/11/30 12:04:17 [notice] 1#1: signal 29 (SIGIO) received
+2021/11/30 12:04:17 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2021/11/30 12:04:17 [notice] 1#1: worker process 23 exited with code 0
+2021/11/30 12:04:17 [notice] 1#1: exit
+2021/11/30 12:04:51 [notice] 1#1: using the "epoll" event method
+2021/11/30 12:04:51 [notice] 1#1: nginx/1.21.4
+2021/11/30 12:04:51 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/11/30 12:04:51 [notice] 1#1: OS: Linux 5.10.60.1-microsoft-standard-WSL2
+2021/11/30 12:04:51 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/30 12:04:51 [notice] 1#1: start worker processes
+2021/11/30 12:04:51 [notice] 1#1: start worker process 23
+2021/11/30 12:04:51 [notice] 1#1: start worker process 24
+2021/11/30 12:05:05 [error] 24#24: *2 directory index of "/var/www/seth.host/http/" is forbidden, client: 192.168.48.1, server: seth.host, request: "GET /http/ HTTP/1.1", host: "seth.host"
+2021/11/30 12:05:09 [error] 24#24: *2 directory index of "/var/www/seth.host/http/" is forbidden, client: 192.168.48.1, server: seth.host, request: "GET /http/ HTTP/1.1", host: "seth.host"
+2021/11/30 12:45:48 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/30 12:45:48 [notice] 24#24: gracefully shutting down
+2021/11/30 12:45:48 [notice] 23#23: gracefully shutting down
+2021/11/30 12:45:48 [notice] 23#23: exiting
+2021/11/30 12:45:48 [notice] 24#24: exiting
+2021/11/30 12:45:48 [notice] 23#23: exit
+2021/11/30 12:45:48 [notice] 24#24: exit
+2021/11/30 12:45:48 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2021/11/30 12:45:48 [notice] 1#1: worker process 23 exited with code 0
+2021/11/30 12:45:48 [notice] 1#1: worker process 24 exited with code 0
+2021/11/30 12:45:48 [notice] 1#1: exit
+2021/11/30 13:06:11 [notice] 1#1: using the "epoll" event method
+2021/11/30 13:06:11 [notice] 1#1: nginx/1.21.4
+2021/11/30 13:06:11 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/11/30 13:06:11 [notice] 1#1: OS: Linux 5.10.60.1-microsoft-standard-WSL2
+2021/11/30 13:06:11 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/30 13:06:11 [notice] 1#1: start worker processes
+2021/11/30 13:06:11 [notice] 1#1: start worker process 24
+2021/11/30 13:06:11 [notice] 1#1: start worker process 25
+2021/11/30 13:07:15 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/30 13:07:15 [notice] 24#24: gracefully shutting down
+2021/11/30 13:07:15 [notice] 25#25: gracefully shutting down
+2021/11/30 13:12:55 [notice] 1#1: using the "epoll" event method
+2021/11/30 13:12:55 [notice] 1#1: nginx/1.21.4
+2021/11/30 13:12:55 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/11/30 13:12:55 [notice] 1#1: OS: Linux 5.10.60.1-microsoft-standard-WSL2
+2021/11/30 13:12:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/30 13:12:55 [notice] 1#1: start worker processes
+2021/11/30 13:12:55 [notice] 1#1: start worker process 23
+2021/11/30 13:12:55 [notice] 1#1: start worker process 24
+2021/11/30 13:14:19 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/30 13:14:19 [notice] 24#24: gracefully shutting down
+2021/11/30 13:14:19 [notice] 23#23: gracefully shutting down
+2021/11/30 13:14:19 [notice] 24#24: exiting
+2021/11/30 13:14:19 [notice] 24#24: exit
+2021/11/30 13:14:19 [notice] 23#23: exiting
+2021/11/30 13:14:19 [notice] 23#23: exit
+2021/11/30 13:14:19 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2021/11/30 13:14:19 [notice] 1#1: worker process 24 exited with code 0
+2021/11/30 13:14:19 [notice] 1#1: signal 29 (SIGIO) received
+2021/11/30 13:14:19 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2021/11/30 13:14:19 [notice] 1#1: worker process 23 exited with code 0
+2021/11/30 13:14:19 [notice] 1#1: exit
+2021/11/30 14:27:32 [error] 8#8: *2 open() "/var/www/seth.host/http/index.html" failed (2: No such file or directory), client: 172.21.0.1, server: seth.host, request: "GET /http/index.html HTTP/1.1", host: "seth.host"
+2021/11/30 14:27:37 [error] 8#8: *2 open() "/var/www/seth.host/http/index.html" failed (2: No such file or directory), client: 172.21.0.1, server: seth.host, request: "GET /http/index.html HTTP/1.1", host: "seth.host"
+2021/11/30 14:27:38 [error] 8#8: *2 open() "/var/www/seth.host/http/index.html" failed (2: No such file or directory), client: 172.21.0.1, server: seth.host, request: "GET /http/index.html HTTP/1.1", host: "seth.host"
+2021/11/30 14:27:48 [error] 8#8: *2 open() "/var/www/seth.host/http/index.html" failed (2: No such file or directory), client: 172.21.0.1, server: seth.host, request: "GET /http/index.html HTTP/1.1", host: "seth.host"
+2021/11/30 14:27:50 [error] 8#8: *2 open() "/var/www/seth.host/http/index.html" failed (2: No such file or directory), client: 172.21.0.1, server: seth.host, request: "GET /http/index.html HTTP/1.1", host: "seth.host"
+2021/11/30 14:27:50 [error] 8#8: *2 open() "/var/www/seth.host/http/index.html" failed (2: No such file or directory), client: 172.21.0.1, server: seth.host, request: "GET /http/index.html HTTP/1.1", host: "seth.host"
+2021/11/30 14:27:50 [error] 8#8: *2 open() "/var/www/seth.host/http/index.html" failed (2: No such file or directory), client: 172.21.0.1, server: seth.host, request: "GET /http/index.html HTTP/1.1", host: "seth.host"
+2021/11/30 14:27:50 [error] 8#8: *2 open() "/var/www/seth.host/http/index.html" failed (2: No such file or directory), client: 172.21.0.1, server: seth.host, request: "GET /http/index.html HTTP/1.1", host: "seth.host"
+2021/12/14 09:26:30 [error] 10#10: *1 open() "/var/www/seth.host/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: seth.host, request: "GET /favicon.ico HTTP/1.1", host: "seth.host", referrer: "http://seth.host/html/index.html"
